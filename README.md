@@ -26,7 +26,7 @@ This repository contains a Salesforce **Agentforce** implementation for automati
 3. Configure Topics and Instructions
 4. Asssign Salesforce Flows as Actions
 5. Test using Reasoning Logs
-6. Deploy to Sales Users / public website created using github pages.
+6. Deploy to Sales Users / website created using github pages.
 
 ## Repository Structure  
 
